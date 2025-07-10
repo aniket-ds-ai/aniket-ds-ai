@@ -44,9 +44,9 @@
 
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/aniket-chaturvedi)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/aniketchaturvedi) <!-- replace with your Kaggle URL -->
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:chaturvedianiket007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/aniket-chaturvedi-147457374/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/aniket-ds-ai)
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:aniketc.pro@gmail.com)
 
 ---
 
